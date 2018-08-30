@@ -1,2 +1,2 @@
-# codeSnippets
+# CodeSnippets
 Xcode代码块
